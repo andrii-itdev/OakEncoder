@@ -1,0 +1,15 @@
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\bin\Debug\OakEncoder.exe.config
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\bin\Debug\OakEncoder.exe
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\bin\Debug\OakEncoder.pdb
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\OakEncoder.csprojAssemblyReference.cache
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\MainWindow.g.cs
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\App.g.cs
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\OakEncoder_MarkupCompile.cache
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\OakEncoder_MarkupCompile.lref
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\MainWindow.baml
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\OakEncoder.g.resources
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\OakEncoder.Properties.Resources.resources
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\OakEncoder.csproj.GenerateResource.cache
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\OakEncoder.exe
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\OakEncoder.pdb
+C:\Projects\Own\OakEncoder\OakEncoder\OakEncoder\obj\Debug\GeneratedInternalTypeHelper.g.cs
